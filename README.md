@@ -8,7 +8,7 @@ This application automatically generates comprehensive research papers on any to
 - Tavily API key (for search functionality)
 
 ## Sample reports
-
+https://github.com/AhmedShiny/OpenPaper/tree/main/research_papers
 
 > Note: To increase report size change the char_limit in workflow.py but bear in mind it will      increase token consumption
 
