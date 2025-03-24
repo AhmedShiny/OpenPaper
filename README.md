@@ -6,7 +6,7 @@ This application automatically generates comprehensive research papers on any to
 ## Demo
 
 https://github.com/user-attachments/assets/1189fa9d-cf7a-4806-af66-8b9bdf31bb30
-
+> Note: The demo is sped up
 ## Requirements
 - GROQ API key (for language model access) or any other langchain supported model
 - Tavily API key (for search functionality)
