@@ -1,7 +1,11 @@
 # OpenPaper
 
 ## Overview
-This application automatically generates comprehensive research papers on any topic using a combination of AI-powered research tools. It leverages browser-based search capabilities and language models to create well-structured academic papers and saves them as PDF documents.It can take upto 30 minutes to create one.
+This application automatically generates comprehensive research papers on any topic using a combination of AI-powered research tools. It leverages browser-based search capabilities and language models to create well-structured academic papers and saves them as PDF documents. It can take upto 30 minutes to create one.
+
+## Demo
+
+https://github.com/user-attachments/assets/1189fa9d-cf7a-4806-af66-8b9bdf31bb30
 
 ## Requirements
 - GROQ API key (for language model access) or any other langchain supported model
